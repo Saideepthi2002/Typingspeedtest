@@ -1,5 +1,8 @@
 body {
-  background-image: url("assests/images/typinspeedbi.jpg");
+  background-image: url("assests/images/");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   /* background-color: #EDDEA4; */
   color: black;
   text-align: center;
